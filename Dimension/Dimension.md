@@ -17,6 +17,8 @@
 Sau khi chạy chương trình kết quả nhận được
 ![image](https://github.com/Diephho/miniCTF-W1/assets/126962960/a35e70e8-fdfe-4d33-81ef-fdf585b7a9f8)
 * Sau khi đã có hex của length và width, dùng tool HxD (Hexeditor) để thay cho đúng, và nhận được ảnh chứa flag
+* hex dài: `00 00 04 80`
+* hex rộng: `00 00 02 88`
 ![image](https://github.com/Diephho/miniCTF-W1/assets/126962960/27c08e1a-a8bf-4085-917d-130f44fc5a68)
 ![image](https://github.com/Diephho/miniCTF-W1/assets/126962960/0c8ee401-c234-411c-a667-64c3307e5951)
 
