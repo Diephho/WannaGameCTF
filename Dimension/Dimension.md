@@ -1,4 +1,4 @@
-# Dimension
+# Dimension (Forensics)
 
 * Challenge cho ta 1 file ảnh final.png nhưng không thể mở ra ảnh nên trước tiên kiểm tra lại file type thì nhận được *final.png: PNG image data, 0 x 0, 8-bit/color RGB, non-interlaced*.
 * Dùng xxd để kiểm tra file
